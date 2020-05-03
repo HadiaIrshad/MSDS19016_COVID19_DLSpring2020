@@ -33,6 +33,7 @@ In this part we classify data into covid-19 , pneumonia and normal by fine tunin
 
 ## Data:
 This dataset contains X-Ray images from 3 classes (covid-19, pneumonia, normal)
+- Data can be downloaded from [here](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing)
 
 ## Models
 The fine tuned models can be found [here](https://drive.google.com/open?id=106ylwrwaaKHPFg4HqSkYlOc2SYjLncfI)
